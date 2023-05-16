@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clr {
+    clear: both;
+}
+
+.mt {
+    margin-top: 1vh;
+}
+
+.mb {
+    margin-bottom: 1vh;
+}
+
+.ml {
+    margin-left: 1%;
+}
+
+.ml05 {
+    margin-left: 0.5%;
+}
+
+.mr05 {
+    margin-right: 1%;
+}
+
+.bg1 {
+    background-color: tomato;
+}
+
+.bg2 {
+    background-color: green;
+}
+
+.head{
+    width: 100%;
+    height: 10vh;
+}
+
+.body {
+    width: 100%;
+    height: 90vh;
+    /* padding-left: 2%;
+    padding-right: 2%; */
+}
+
+.main {
+    width: 90%;
+    height: 80vh;
+
+}
+
+.left {
+    width: 57%;
+    height: 90vh;
+    padding-left: 2%;
+}
+
+.right {
+    width: 37%;
+    height: 90vh;
+    padding-right: 2%;
+
+}
+
+.navl {
+    width: 60%;
+    height: 4vh;
+}
+
+.nav1 {
+    width: 30%;
+    height: 4vh;
+
+}
+.navr {
+    width: 40%;
+    height: 4vh;
+    
+}
+
+.icon {
+    width: 13%;
+    height: 3vh;
+    border: 2px;
+    border-color: red;
+    border-style: dotted;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.heading {
+    width: 100%;
+    height: 15vh;
+}
+.post{
+    width: 49.5%;
+    /* height: 75vh; */
+}
+.banner{
+    width: 100%;
+    height: 40vh;
+}
+.product{
+    width: 32.6%;
+    height: 15vh;
+}
+.article{
+    width: 49.5%;
+}
+.headmid{
+    width: 100%;
+    height: 5vh;
+}
+.text{
+    width: 100%;
+    height: 70vh;
+}
+p{
+    text-align: justify;
+}
+.post2{
+    width: 100%;
+    height: 40vh;
+}
+.text2{
+    margin-left: 1%;
+    width: 66.4%;
+    /* height: 40vh; */
+}
+.smallprod{
+    width: 19.2%;
+    height: 10vh;
+}
+.articler{
+    width: 100%;
+    height: 41vh;
+}
+.text3{
+    width: 100%;
+    height: 10vh;
+}
